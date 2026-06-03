@@ -1,4 +1,4 @@
-# HLTV Scraper
+# HLTV Data Collection & Web Scraping
 
 This project scrapes **CS2 tournament, match and players data** from [HLTV.org](https://www.hltv.org/) and saves it into an Excel file (`.xlsx`).  
 The dataset is designed to be imported into **Power BI** for creating interactive dashboards (see the project [HLTV Dashboard](https://github.com/M4teusz00/HLTV-dashboard)).
